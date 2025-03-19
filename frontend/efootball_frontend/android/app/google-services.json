@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "49595679109",
+    "firebase_url": "https://black-stars-f4fbb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "black-stars-f4fbb",
+    "storage_bucket": "black-stars-f4fbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49595679109:android:6afe4a68de33c9cf0344ec",
+        "android_client_info": {
+          "package_name": "com.example.efootball_frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATWt-UGRjXVjOKP3DEICsdpTOEIGo1ZIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
